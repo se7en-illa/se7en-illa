@@ -24,7 +24,6 @@
 #### See my [portfolio](http://www.sah.nyc/) for more!
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" img src="https://icons8.com/icon/13441/python"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <!-- <img align="left" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png?20211115112438"/> -->
@@ -33,7 +32,6 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
