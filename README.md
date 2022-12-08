@@ -1,8 +1,6 @@
 ## Hi there 👋🏽
 
-### My name is Sarah Alli
-
-#### 😄 Pronouns: she/they
+### My name is Sarah Alli (she/they)
 
 #### I am a...
 
