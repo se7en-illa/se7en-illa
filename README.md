@@ -12,8 +12,8 @@
 
 #### I am currently...
 
+- 📚 Wrapping up my experience as a student of Fullstack Academy's Future Code Program
 - 💻 Building a web app using Web Audio API to mimic the behavior of a guitar loop pedal.
-- 🤸🏻‍♀️ Practicing handstands and contortion in my living room
 
 #### To contact me...
 
@@ -27,7 +27,7 @@
 <img align="left" img src="https://icons8.com/icon/13441/python"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png?20211115112438"/>
+<!-- <img align="left" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png?20211115112438"/> -->
 <img align="left" img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
