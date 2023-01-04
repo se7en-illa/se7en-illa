@@ -21,6 +21,8 @@
 
 #### See my [portfolio](http://www.sah.nyc/) for more!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
+
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -35,8 +37,6 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
 &nbsp;&nbsp;&nbsp;
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 <!--
 **se7en-illa/se7en-illa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
