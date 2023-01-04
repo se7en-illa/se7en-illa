@@ -34,7 +34,7 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
-#### & check out my GitHub Stats:
+&nbsp;&nbsp;&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
