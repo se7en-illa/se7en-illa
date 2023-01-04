@@ -34,7 +34,10 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=highcontrast)](https://git.io/streak-stats)
+<br>
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 <!--
 **se7en-illa/se7en-illa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
