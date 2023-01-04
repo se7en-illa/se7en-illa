@@ -21,6 +21,8 @@
 
 #### See my [portfolio](http://www.sah.nyc/) for more!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
