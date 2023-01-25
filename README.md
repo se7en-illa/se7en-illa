@@ -21,7 +21,7 @@
 
 #### See my [portfolio](http://www.sah.nyc/) for more!
 
-![Codewars](https://github.r2v.ch/codewars?user=JUGO-DE-MANGO&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=se7en-illa&stroke=%23BB432C)
 
 <!-- ![Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true) -->
 
