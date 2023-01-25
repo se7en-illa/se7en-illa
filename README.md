@@ -23,7 +23,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=JUGO-DE-MANGO&stroke=%23BB432C)
 
-![Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true)
+<!-- ![Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
