@@ -17,7 +17,7 @@
 
 - ✉️ via [email](mailto:sarah@sah.nyc)
 - 🌐 on [LinkedIn](https://www.linkedin.com/in/allisarah/)
-- 📱 on [Instagram](https://www.instagram.com/sarah.cr2/)
+- 📱 on [Instagram](https://www.instagram.com/seablanket/)
 
 #### See my [portfolio](http://www.sah.nyc/) for more!
 
