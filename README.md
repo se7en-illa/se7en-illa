@@ -23,7 +23,9 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=se7en-illa&stroke=%23BB432C)
 
-<!-- ![Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true) -->
+![Github Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=se7en-illa&theme=transparent&show_icons=true&locale=en&layout=compact)
+
+![Sah's GitHub stats](https://github-readme-stats.vercel.app/api?username=se7en-illa&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=se7en-illa&theme=tokyonight_duo)](https://git.io/streak-stats)
 
