@@ -9,7 +9,7 @@
 
 #### I am currently...
 
-- 💻 A Full Stack Software Engineering Fellow at Formation.dev, working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
+- 💻 A Full Stack Software Engineering Fellow at [Formation.dev](https://formation.dev/), working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
 - 📚 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
 - 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 
