@@ -5,13 +5,15 @@
 #### I am a...
 
 - 👩🏽‍💻 Fullstack Software Engineer currently seeking a full-time role.
+- 📚 Recent graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector.
 - 🎥 Film Producer & Director, specializing in music, LGBTQ, and content that uplifts underrepresented communities.
 - 🎸🥁🎹🎤🎧 Multi-instrumentalist and DJ.
 
 #### I am currently...
 
-- 📚 Wrapping up my experience as a student of Fullstack Academy's Future Code Program
-- 💻 Building a web app using Web Audio API to mimic the behavior of a guitar loop pedal.
+- 💻 A Full Stack Software Engineering Fellow at Formation.dev, working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
+- 📚 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
+- 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 
 #### To contact me...
 
