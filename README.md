@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
 
-### My name is Sarah Alli (she/they)
+<h1 align="center">My name is Sarah Alli (she/they) </h1>
 
 #### I am a...
 
