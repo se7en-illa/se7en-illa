@@ -1,19 +1,17 @@
 <h2 align="center">Hi there 👋🏽 My name is Sarah Alli</h2>
 <h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
 
-### **I am a...**
+#### **I am a...**
 
 - 👩🏽‍💻 Fullstack Software Engineer currently seeking a full-time role.
 - 📚 Recent graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
 
-### **I am currently...**
+#### **I am currently...**
 
 - 💻 A Full Stack Software Engineering Fellow at [Formation.dev](https://formation.dev), working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
 - 📚 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
 - 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
-
-<br/>
 
 ### **Connect with me:**
 
@@ -23,8 +21,6 @@
 <a href="https://www.leetcode.com/se7en-illa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="se7en-illa" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@se7en-illa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@se7en-illa" height="30" width="40" /></a>
 </p>
-
-<br/>
 
 ### **Languages and Tools:**
 
