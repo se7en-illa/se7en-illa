@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋🏽 My name is Sarah Alli</h2>
 <h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
 <br/>
-<h3 style="text-align:center; font-weight:bold">Connect With Me:</h3>
+<h3 align="center" style="font-weight:bold; font-style:italic;">Connect With Me:</h3>
 
 <div align="center">
   <a href="mailto:sarah@sah.nyc">
