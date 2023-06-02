@@ -1,8 +1,8 @@
-<!-- <div width="360px" height="240px">
-<img src="sarahalli.gif"/>
-</div> -->
+<div width="360px" height="240px">
+<img src="sarahalliv2.gif"/>
+</div>
 
-<h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
+<h4 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h4>
 
 <h3 align="center" style="font-weight:bold; font-style:italic;">Connect With Me:</h3>
 
