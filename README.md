@@ -1,6 +1,9 @@
-<h2 align="center">Hi there 👋🏽 My name is Sarah Alli</h2>
+<video autoplay loop>
+  <source src="SarahAlli.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 <h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
-<br/>
+
 <h3 align="center" style="font-weight:bold; font-style:italic;">Connect With Me:</h3>
 
 <div align="center">
@@ -14,8 +17,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </div>
-
-<br/>
 
 #### **I am a...**
 
