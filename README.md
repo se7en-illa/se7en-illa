@@ -1,6 +1,6 @@
-<div width="360px" height="240px">
+<!-- <div width="360px" height="240px">
 <img src="sarahalli.gif"/>
-</div>
+</div> -->
 
 <h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
 
