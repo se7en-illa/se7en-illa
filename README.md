@@ -1,7 +1,7 @@
-<video autoplay loop>
-  <source src="SarahAlli.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<div>
+<img src="sarahalli.gif"/>
+</div>
+
 <h3 align="center">Software Engineer with 15 years of professional experience in the film & media industry </h3>
 
 <h3 align="center" style="font-weight:bold; font-style:italic;">Connect With Me:</h3>
