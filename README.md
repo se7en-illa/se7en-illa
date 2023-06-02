@@ -1,4 +1,4 @@
-<div>
+<div width="360px" height="240px">
 <img src="sarahalli.gif"/>
 </div>
 
