@@ -21,20 +21,21 @@
 #### **I am a...**
 
 - 👩🏽‍💻 Fullstack Software Engineer currently seeking a full-time role.
-- 📚 Recent graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector.
+- 📚 Graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector, in collaboration with the NYC Tech Talent Pipeline.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
 
 #### **I am currently...**
 
 - 💻 A Full Stack Software Engineering Fellow at [Formation.dev](https://formation.dev), working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
-- 📚 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
-- 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
+- 📚 A Teaching Assistant for the [NYC Tech Talent Pipeline](https://techtalentpipeline.nyc/) Summer 2023 Residency @ CUNY John Jay College, teaching the PERN stack in an intensive bootcamp setting.
+- 🌩️ A participant of the June 2023 Cohort for the [AWS CloudUp for Her](https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html) program, designed to get women in tech certified as an AWS Cloud Practicioner and an AWS Solutions Architect.
+- 🩺 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
 
-### **Languages and Tools:**
+### **Languages, Technologies, and Tools:**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,md,html,css,tailwind,materialui,react,redux,express,sequelize,nodejs,webpack,mysql,postgres,firebase,threejs,nextjs,vercel,docker,git,vscode,ae,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,threejs,tailwind,react,redux,express,sequelize,nodejs,webpack,postgres,firebase,nextjs,docker,git,ae,pr,ps" />
   </a>
 </p>
 <p align="center">
@@ -42,7 +43,7 @@
 ### **Currently Learning:**
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,aws,pytorch,tensorflow,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=cpp,aws,pytorch,tensorflow,raspberrypi,blender" />
   </a>
 </p>
 
