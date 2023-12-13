@@ -27,9 +27,8 @@
 #### **I am currently...**
 
 - 💻 A Full Stack Software Engineering Fellow at [Formation.dev](https://formation.dev), working with industry mentors to master data structure and algorithm concepts, in addition to technical interview prep, code contributions & reviews, and pair programming sessions.
-- 📚 A Teaching Assistant for the [NYC Tech Talent Pipeline](https://techtalentpipeline.nyc/) Summer 2023 Residency @ CUNY John Jay College, teaching the PERN stack in an intensive bootcamp setting.
-- 🌩️ A participant of the June 2023 Cohort for the [AWS CloudUp for Her](https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html) program, designed to get women in tech certified as an AWS Cloud Practicioner and an AWS Solutions Architect.
-- 🩺 Developing and maintaining features and front-end design for [MedExperts.io](https://www.medexperts.io/), a study platform designed for medical students & professionals.
+- 🌩️ A participant of the November 2023 Cohort for the [AWS CloudUp for Her](https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html) program, designed to get women in tech certified as an AWS Cloud Practicioner and an AWS Solutions Architect.
+- 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 
 ### **Languages, Technologies, and Tools:**
 
