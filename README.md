@@ -20,7 +20,7 @@
 
 #### **I am a...**
 
-- 👩🏽‍💻 Fullstack Software Engineer currently seeking a full-time role.
+- 👩🏽‍💻 Apprentice Software Engineer @ Pinterest 📌.
 - 📚 Graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector, in collaboration with the NYC Tech Talent Pipeline.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
 
