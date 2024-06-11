@@ -21,13 +21,9 @@
 #### **I am a...**
 
 - 👩🏽‍💻 Apprentice Software Engineer @ Pinterest 📌.
+- 🌴 Contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 - 📚 Graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector, in collaboration with the NYC Tech Talent Pipeline.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
-
-#### **I am currently...**
-
-- 🌩️ A participant of the November 2023 Cohort for the [AWS CloudUp for Her](https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html) program, designed to get women in tech certified as an AWS Cloud Practicioner and an AWS Solutions Architect.
-- 🌴 A contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 
 ### **Languages, Technologies, and Tools:**
 
@@ -38,12 +34,12 @@
 </p>
 <p align="center">
 
-### **Currently Learning:**
+<!-- ### **Currently Learning:**
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,aws,pytorch,tensorflow,raspberrypi,blender" />
   </a>
-</p>
+</p> -->
 
 <table>
   <tr>
