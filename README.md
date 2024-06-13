@@ -25,14 +25,14 @@
 - 📚 Graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector, in collaboration with the NYC Tech Talent Pipeline.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
 
-### **Languages, Technologies, and Tools:**
+<!-- ### **Languages, Technologies, and Tools:**
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,threejs,tailwind,react,redux,express,sequelize,nodejs,webpack,postgres,firebase,nextjs,docker,git,ae,pr,ps" />
   </a>
 </p>
-<p align="center">
+<p align="center"> -->
 
 <!-- ### **Currently Learning:**
 
