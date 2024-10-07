@@ -41,11 +41,20 @@
   </a>
 </p> -->
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://streak-stats.demolab.com?user=se7en-illa&theme=tokyonight" alt="se7en-illa" /></td>
     <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=se7en-illa&theme=transparent&show_icons=true&locale=en&layout=compact" alt="se7en-illa" /></td>
   </tr>
-</table>
+</table> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=se7en-illa&label=Profile%20views&color=0e75b6&style=flat" alt="se7en-illa" /> </p>
+<div style="text-align: center;">  
+  <table style="margin: 0 auto;">  
+    <tr>  
+      <td><img src="https://raw.githubusercontent.com/se7en-illa/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="se7en-illa stats overview" /></td>  
+      <td><img src="https://raw.githubusercontent.com/se7en-illa/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="se7en-illa languages overview" /></td>  
+    </tr>  
+  </table>   
+</div>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=se7en-illa&label=Profile%20views&color=0e75b6&style=flat" alt="se7en-illa" /> </p> -->
