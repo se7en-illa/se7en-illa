@@ -20,7 +20,7 @@
 
 #### **I am a...**
 
-- 👩🏽‍💻 Apprentice Software Engineer @ Pinterest 📌.
+- 👩🏽‍💻 Software Engineer @ Pinterest 📌.
 - 🌴 Contributing junior developer for [Hack for LA](https://www.hackforla.org/), the Los Angeles brigade of Code for America, a network of civic-minded technologists who contribute their skills toward using the web as a platform for local government and community service.
 - 📚 Graduate of Fullstack Academy's Future Code Program, a software engineering immersive and scholarship aimed to propel underrepresented New Yorkers into the tech sector, in collaboration with the NYC Tech Talent Pipeline.
 - 🎥 Film Producer & Director, specializing in content that uplifts underrepresented communities.
